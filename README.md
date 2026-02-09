@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil de Daniel Avelino 😉
 
+</style>
  <div>
    <a href="https://github.com/D4nN3t0">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4nN3t0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,9 +13,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL Developer" height ="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
 </div>
  
 <br>
+
  
 ### Me segue nas redes sociais logo abaixo!
  

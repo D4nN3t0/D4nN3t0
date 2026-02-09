@@ -1,6 +1,5 @@
 ## Bem-vindo(a) ao perfil de Daniel Avelino 😉
 
-</style>
  <div>
    <a href="https://github.com/D4nN3t0">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4nN3t0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

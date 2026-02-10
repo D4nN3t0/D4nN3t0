@@ -11,13 +11,6 @@ e construção de aplicações back-end.
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D4nN3t0&show_icons=true&theme=github_dark" />
-</p>
-
----
-
 ### 🚀 Sobre mim
 - 🧑🏻‍💻 Desenvolvedor **Back-End em formação**
 - ☕ Estudando **Java (fundamentos e POO)**  

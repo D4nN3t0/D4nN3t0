@@ -40,7 +40,7 @@ e construção de aplicações back-end.
 
 ### 🔗 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-avelino-b9431717/" target="_blank">
+  <a href="www.linkedin.com/in/daniel-avelinoneto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/D4nN3t0" target="_blank">

@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Me chamo Daniel Avelino 👋</h1>
 
 <h3 align="center">
-🧑🏻‍💻 Desenvolvedor Back-End em formação | Java • SQL
+🧩💻 Desenvolvedor Back-End em formação | Java • SQL
 </h3>
 
 <p align="center">
@@ -11,8 +11,8 @@ e construção de aplicações back-end.
 
 ---
 
-### 🚀 Sobre mim
-- 🧑🏻‍💻 Desenvolvedor **Back-End em formação**
+### ⚙ Sobre mim
+- 🐱‍👤💻 Desenvolvedor **Back-End em formação**
 - ☕ Estudando **Java (fundamentos e POO)**  
 - 🗄️ Foco em **Banco de Dados (SQL)**
 - 🧠 Base sólida em **lógica de programação**
@@ -20,7 +20,7 @@ e construção de aplicações back-end.
 
 ---
 
-### 🧠 Tecnologias
+### 🛠 Tecnologias
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" width="40"/>

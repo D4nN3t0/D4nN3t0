@@ -57,5 +57,8 @@ Sou um desenvolvedor em formação, focado em criar soluções eficientes e evol
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/D4nN3t0/D4nN3t0/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/D4nN3t0/D4nN3t0/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/D4nN3t0/D4nN3t0/blob/output/github-contribution-grid-snake.svg">
+</picture>
 

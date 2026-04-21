@@ -44,12 +44,18 @@ Sou um desenvolvedor em formação, focado em criar soluções eficientes e evol
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-avelino-neto)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D4nN3t0)
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-avelino-neto">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/D4nN3t0">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🐍 Contribuições
 
 ![Snake animation](https://github.com/D4nN3t0/D4nN3t0/blob/output/github-contribution-grid-snake.svg)
+

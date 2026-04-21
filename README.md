@@ -23,9 +23,10 @@ Sou um desenvolvedor em formação, focado em criar soluções eficientes e evol
 
 ## 📊 Minhas Estatísticas
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=D4nN3t0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4nN3t0&layout=compact&theme=tokyonight)
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=D4nN3t0&show_icons=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nN3t0&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 

@@ -38,7 +38,7 @@
 
 
 ### 📫 Reach Me
- - 💼 LinkedIn: https://www.linkedin.com/in/daniel-avelino-neto
+ - 💼 LinkedIn: www.linkedin.com/in/daniel-avelinoneto
 <br>
 
 ```md

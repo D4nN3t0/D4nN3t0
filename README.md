@@ -1,54 +1,48 @@
-### Hello! I'm Daniel Avelino
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header"/>
 
-`Desenvolvedor Back-End` · `Java | SQL | Python`
+<h1 align="center">Hello, I'm Daniel Neto 👋</h1>
 
-### Tech Stack
+<p align="center">
+  Back-End Developer in progress focused on Java and SQL
+</p>
 
-<details open>
-  <summary><b>⚙️ Back-end</b></summary>
+---
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
+## 👨‍💻 A little more about me...
 
-</details>
+```typescript
+const daniel = {
+  pronouns: "he" | "him",
+  code: [Java, JavaScript, SQL],
+  tools: [IntelliJ, VSCode, Git],
+  focus: "Back-End",
+  learning: [OOP, Database, CleanCode],
+}
+```
 
-<details>
-  <summary><b>📊 Data & Automation</b></summary>
+---
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+## 🛠️ Tech Stack
 
-</details>
+<div align="left">
 
-<details>
-  <summary><b>🌐 Front-end (base)</b></summary>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,git,github,vscode,idea" />
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-</details>
-
-### GitHub
-
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=D4nN3t0&show_icons=true&theme=tokyonight"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nN3t0&layout=compact&theme=tokyonight"/>
 </div>
 
+---
 
-### 📫 Reach Me
- - 💼 LinkedIn: www.linkedin.com/in/daniel-avelinoneto
-<br>
+## 📊 GitHub Stats
 
-```md
-### Projects
+<div align="center">
 
-- **pagina-wikipedia-js** — HTML, CSS, JavaScript  
-- **contador_numerico** — HTML, CSS, JavaScript  
-- **math-calculator-java** — Java  
-- **jokenpo** — Java  
-```
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=D4nN3t0&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nN3t0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 ### Activity
 
@@ -56,3 +50,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/D4nN3t0/D4nN3t0/blob/output/github-contribution-grid-snake-dark.svg">
   <img src="https://github.com/D4nN3t0/D4nN3t0/blob/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<p align="center">
+  <em>☕ I enjoy connecting with different developers, sharing knowledge and growing through back-end development.</em>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
